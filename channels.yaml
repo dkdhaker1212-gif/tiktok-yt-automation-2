@@ -3,7 +3,7 @@
 
 channels:
   - id: channel_2                         # unique; used in DB, logs, secret names
-    tiktok_username: "tailbitpets"        # no @  -- source profile (AI pet vlogs)
+    tiktok_username: "bigfootvlogs"       # AI Bigfoot cryptid vlogs
     youtube_channel_name: "PawsOfNature"  # https://www.youtube.com/@PawsOfNature-u6z
     owner_email: "mrjohn112311@gmail.com" # channel id UC0_CNgntFW4r0kDhyKyQvkA (main
                                           #   channel, not a brand account)
@@ -13,10 +13,10 @@ channels:
 
     videos_per_day: 2                     # 2 Shorts/day added to an existing long-form channel
     description_footer: ""
-    default_tags: [cute animals, funny pets, pet vlog, cats, kittens, animal shorts,
-                   wholesome animals, adorable, pets of tiktok, cute cat, animal lovers,
-                   heartwarming, wildlife]
-    youtube_category_id: "15"             # 15 Pets & Animals
+    default_tags: [bigfoot, sasquatch, cryptid, bigfoot sighting, bigfoot caught on camera,
+                   bigfoot vlog, cryptid vlog, ai bigfoot, found footage, forest, folklore,
+                   yeti, monster caught on camera]
+    youtube_category_id: "24"             # Entertainment
     enabled: true
     max_retry_days: 7
     shorts_max_seconds: 180
