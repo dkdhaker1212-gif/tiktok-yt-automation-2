@@ -17,7 +17,7 @@ channels:
                    bigfoot vlog, cryptid vlog, ai bigfoot, found footage, forest, folklore,
                    yeti, monster caught on camera]
     youtube_category_id: "24"             # Entertainment
-    enabled: true
+    enabled: false                        # PAUSED 2026-09-18: no traction, stop posting (see memory)
     max_retry_days: 7
     shorts_max_seconds: 180
     min_video_seconds: 12                 # skip clips shorter than 12s
