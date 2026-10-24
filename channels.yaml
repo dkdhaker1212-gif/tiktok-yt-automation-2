@@ -3,8 +3,8 @@
 
 channels:
   - id: channel_2                         # unique; used in DB, logs, secret names
-    tiktok_username: "bigfootvlogs"       # AI Bigfoot cryptid vlogs
-    tiktok_username_backup: "yetivloglife"  # no @ -- emergency-only fallback, used automatically if the primary source runs dry or every candidate it offers fails to post. 313.7K followers, AI Yeti vlog (same AI-cryptid-vlog format), no YouTube found.
+    tiktok_username: "yetivloglife"  # no @ -- 312K followers, AI Yeti vlog; no real YT (only 1-14 sub namesakes). Promoted 2026-10-25: bigfootvlogs gave ~1 view/video all October, moved to backup.
+    tiktok_username_backup: "bigfootvlogs"  # no @ -- emergency fallback: previous primary (original AI Bigfoot vlog account)
     youtube_channel_name: "PawsOfNature"  # https://www.youtube.com/@PawsOfNature-u6z
     owner_email: "mrjohn112311@gmail.com" # channel id UC0_CNgntFW4r0kDhyKyQvkA (main
                                           #   channel, not a brand account)
