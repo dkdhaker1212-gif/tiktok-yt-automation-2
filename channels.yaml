@@ -3,8 +3,8 @@
 
 channels:
   - id: channel_2                         # unique; used in DB, logs, secret names
-    tiktok_username: "yetivloglife"  # no @ -- 312K followers, AI Yeti vlog; no real YT (only 1-14 sub namesakes). Promoted 2026-10-25: bigfootvlogs gave ~1 view/video all October, moved to backup.
-    tiktok_username_backup: "bigfootvlogs"  # no @ -- emergency fallback: previous primary (original AI Bigfoot vlog account)
+    tiktok_username: "birdsnature1406"  # no @ -- 125.5K followers / 8.9M likes, pets/birds/animals + rescues; YT search only finds an unrelated Vietnamese channel. 2026-10-25 trend pass: animal rescue + wildlife = 3-7M views per Short on YT this week. Replaces yetivloglife (~0 views).
+    tiktok_username_backup: "wildwonders1.4"  # no @ -- emergency fallback: 22.2K followers, wild/cute/funny animals; only tiny namesake YT channels.
     youtube_channel_name: "PawsOfNature"  # https://www.youtube.com/@PawsOfNature-u6z
     owner_email: "mrjohn112311@gmail.com" # channel id UC0_CNgntFW4r0kDhyKyQvkA (main
                                           #   channel, not a brand account)
@@ -14,10 +14,10 @@ channels:
 
     videos_per_day: 2                     # 2 Shorts/day added to an existing long-form channel
     description_footer: ""
-    default_tags: [bigfoot, sasquatch, cryptid, bigfoot sighting, bigfoot caught on camera,
-                   bigfoot vlog, cryptid vlog, ai bigfoot, found footage, forest, folklore,
-                   yeti, monster caught on camera]
-    youtube_category_id: "24"             # Entertainment
+    default_tags: [animals, wildlife, animal rescue, cute animals, funny animals, nature, pets, birds,
+                   rescued animals, baby animals, wild animals, heartwarming, animal lovers,
+                   amazing animals, animal shorts, dogs, cats, farm animals, nature documentary]
+    youtube_category_id: "15"             # 15 Pets & Animals
     enabled: true
     max_retry_days: 7
     shorts_max_seconds: 180
@@ -61,7 +61,7 @@ channels:
       hook_templates:
         - "WAIT FOR IT"
         - "SO CUTE"
-        - "HE DID WHAT?!"
+        - "HERO MOMENT"
         - "YOU'LL SMILE"
 
     slot_publish_times_utc:               # these ARE the cron fire times
